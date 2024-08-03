@@ -1,4 +1,4 @@
 - 👋 Ola, eu sou Gustavo Henrique de Souza
-- 👀 Estou interessado na área de desenvolvimento web
+- 👀 Estou interessado na área de desenvolvimento Android
 - 🌱 Eu estou estudando atualmente java, e faço faculdade de Analise de Desenvolvimento de Sistemas
-- ⚡ Adoro aprender e de desafios.
+- ⚡ Adoro aprender e desafios.
